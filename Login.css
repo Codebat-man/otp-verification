@@ -1,0 +1,12 @@
+/* Login.css */
+
+.custom-border {
+  border: 4px solid rgba(0, 0, 0, 0.441); /* Set the border color and thickness */
+  padding: 20px; /* Add padding to the content inside the border */
+  border-radius: 10px; /* Add border radius for rounded corners */
+}
+.custom-borderpn {
+  border: 4px solid rgba(0, 0, 0, 0.244); /* Set the border color and thickness */
+  padding: 10px; /* Add padding to the content inside the border */
+  border-radius: 5px; /* Add border radius for rounded corners */
+}
